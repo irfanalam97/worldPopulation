@@ -11,9 +11,9 @@
     { "country": 0, "population": 9999},
     { "country": 1, "population": 8888},
     { "country": 2, "population": 7777},
-    { "country": 3, "population": 9999},
-    { "country": 4, "population": 8888},
-    { "country": 5, "population": 7777},
+    { "country": 3, "population": 6666},
+    { "country": 4, "population": 5555},
+    { "country": 5, "population": 4444},
     { "country": 6, "population": 9999}
   ]
 }
